@@ -1,0 +1,7 @@
+Carga de los archivos a través de GIt
+
+git status
+git diff
+git add notas.txt
+git commit -m "Agregar mis notas del curso"
+git push
